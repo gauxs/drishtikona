@@ -1,4 +1,12 @@
 # Drishtikona
+
+- [Introduction](#introduction)
+  * [Problem Statement](#problem-statement)
+  * [Research & Development Work Done Till Date](#research--development-work-done-till-date)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Introduction
 ### Problem Statement
 To develop a solution allowing users to perform video-conferencing over internet. Keeping in mind that the solution will have potentially half a billion+ subscribers and will be used by government. Solution:
