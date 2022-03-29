@@ -1,21 +1,5 @@
 # Drishtikona
+This is a project proposal for MeitY Startup Hub's [Innovation Challenge for Video Conferencing Solution](https://app.thebizplanner.com/public/application/inc/5e92ec1269e3401cd7bc6db7). The complete proposal is at [wiki]().
 
-- [Introduction](#introduction)
-  * [Problem Statement](#problem-statement)
-  * [Research & Development Work Done Till Date](#research--development-work-done-till-date)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-## Introduction
-### Problem Statement
-To develop a solution allowing users to perform video-conferencing over internet. Keeping in mind that the solution will have potentially half a billion+ subscribers and will be used by government. Solution:
-- Should scale up/down seamlessly based on load
-- Should implement tight security measure to support high profile/sensitive meetings being attended by government personals
-- Should be easy to use, to support users from all walks of life i.e. a farmer or a businessman
-- Should have low carbon footprint i.e. energy consumption, to support low end devices
-
-### Research & Development Work Done Till Date
-- Multiple application already exists which solve this problem like Skype, Zoom, Cisco Webex
-- Some solutions are completely software based like Zoom while some are a combination of both hardware + software like Cisco WebEx
-- The underlying technology of streaming video/audio has been improved considerably
+# Conclusion
+Although we weren't shortlisted for further rounds but it was a really good experience and a good change from corporate work.
